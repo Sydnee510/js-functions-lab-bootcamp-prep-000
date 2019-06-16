@@ -5,4 +5,3 @@ function happyHolidays(string) {
 funtion ;happyHolidaysTo(name) { 
   return "Happy holidays, ${name}!"
 }
-}
