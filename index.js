@@ -2,4 +2,3 @@
 function happpyHolidays(string) {
   return "Happy Holidays!"
 }
-}
